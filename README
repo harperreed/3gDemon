@@ -1,0 +1,30 @@
+INFO
+Copyright (C) 2003 by Harper Reed
+email: 3g@nata2.org
+
+This is my attempt at putting all of the knowledge i used in the creation of the first to market website 3gScreensaver.com and A500hacking.com into a project that everyone can enjoy and benefit from.
+
+This project is basically a php script that you can drop into ANY directory and have any of the appropriate content served to your phone. Any php hosting site with access to the mail function can do this. The best part is that you do not have to modify any setting with your web server. This script handles all content types.. no tricky apache config modifications or IIS nonsense..
+
+***This is a beta version***
+
+there aren't many bugs as far as i can tell but that doesn't mean anything
+
+LICENSE
+
+This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License (GPL) as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+
+To read the license please visit http://www.gnu.org/copyleft/gpl.html
+
+DOWNLOAD
+# Source Code - initial version(pretty source version)
+
+INSTALLATION
+
+   1. drop the php file into the directory with your jpg & mid files.
+   2. goto it in a browser
+   3. enter your phone number and email
+   4. send the files
+
